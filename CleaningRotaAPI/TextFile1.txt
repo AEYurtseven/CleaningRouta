@@ -1,0 +1,20 @@
+Cleaning Rota :
+
+--Cleaning Action: Task : Entity
+--TaskMap : ClassMap<Task>
+--TaskJoin : Entity
+--TaskJoinMap : ClassMap<TaskJoin>
+--TaskLeave : Entity
+--TaskLeaveMap : ClassMap<TaskLeave>
+
+--Person: Entity
+--Person Map: ClassMap<Person>
+
+--Entity
+
+--ICommand
+--IQuery
+
+--PersonRepository	
+
+
